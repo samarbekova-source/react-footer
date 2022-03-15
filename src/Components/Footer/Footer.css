@@ -1,0 +1,27 @@
+.main-footer {
+  color: white;
+  background-color: rgb(53, 128, 121);
+  padding-top: 3em;
+  /* position: relative; */
+  bottom: 0;
+  width: 100vw;
+  min-height: 20vh;
+
+  /* display: flex; */
+}
+
+/* .container {
+  display: flex;
+} */
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.col ul {
+  list-style-type: none;
+}
